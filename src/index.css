@@ -56,19 +56,20 @@ body {
   @apply px-4 mx-auto lg:px-8 xl:max-w-6xl;
 }
 
-.img-box{
+.img-box {
   @apply bg-zinc-700 overflow-hidden;
 }
 
-.img-cover{
+.img-cover {
   @apply w-full h-full object-cover;
 }
 
-.section{
-  @apply pt-20 lg:pt-32
+.section {
+  @apply pt-20 lg:pt-32;
 }
 /*Typography*/
-.headline-1 {
+.headline-1,
+.headline-2 {
   @apply max-w-max;
   /* background: -webkit-linear-gradient(0deg, #fafafa, #c69fbf);
   color: black; */
@@ -76,4 +77,8 @@ body {
 
 .headline-1 {
   @apply text-5xl  font-semibold lg:text-[48px];
+}
+
+.headline-2 {
+  @apply text-3xl lg:text-4xl lg:leading-tight font-semibold;
 }
