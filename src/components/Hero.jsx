@@ -1,5 +1,4 @@
-/*Components to import*/
-import {ButtonPrimary} from "./Button";
+
 
 const Hero=()=> {
   return (
@@ -28,7 +27,7 @@ const Hero=()=> {
           <h2 className="headline-1 max-w-[15ch] sm:max-w-[20ch] lg:max-w-[15ch] mt-5 mb-8 lg:mb-10">
           Driving Innovation Through Code to Create Meaningful Change
           </h2>
-          <div className="flex items-center gap-3"><ButtonPrimary/> ButtonOutline</div>
+         
         </div>
 
         <div className="hidden lg:block">
