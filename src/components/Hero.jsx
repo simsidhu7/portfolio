@@ -1,4 +1,4 @@
-const Hero=()=> {
+const Hero = () => {
   return (
     <section id="home" className="pt-28 lg:pt-36">
       <div className="container md:grid md:grid-cols-2 items-center md:gap-10">
@@ -23,9 +23,8 @@ const Hero=()=> {
           </div>
 
           <h2 className="headline-1 max-w-[15ch] sm:max-w-[20ch] lg:max-w-[15ch] mt-5 mb-8 lg:mb-10">
-          Driving Innovation Through Code to Create Meaningful Change
+            Driving Innovation Through Code to Create Meaningful Change
           </h2>
-         
         </div>
 
         <div className="hidden lg:block">
@@ -42,6 +41,6 @@ const Hero=()=> {
       </div>
     </section>
   );
-}
+};
 
 export default Hero;

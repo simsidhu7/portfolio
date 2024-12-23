@@ -44,7 +44,7 @@ const Contact = () => {
         <div className="">
           <h2 className="headline-2">Let's connect!</h2>
 
-          <p className="text-zinc-400 mt-2 mb-2">
+          <p className="text-zinc-400 mt-2 mb-2 reveal-up">
             Reach out to discuss working together! Contact me:
             <a
               href="mailto:simritsidhu1@gmail.com"
@@ -57,7 +57,12 @@ const Contact = () => {
 
           <div className="flex items-center gap-2 mt-auto mb-10">
             {socialLinks.map(({ href, icon }, key) => (
-              <a key={key} href={href} target="_blank" className="w-12 h-12 grid place-items-center ring-inset ring-2 ring-zinc-50/5 rounded-lg transition-[background-color,color] hover:bg-zinc-50 hover:text-zinc-950 active:bg-zinc-50/80">
+              <a
+                key={key}
+                href={href}
+                target="_blank"
+                className="w-12 h-12 grid place-items-center ring-inset ring-2 ring-zinc-50/5 rounded-lg transition-[background-color,color] hover:bg-zinc-50 hover:text-zinc-950 active:bg-zinc-50/80 reveal-up"
+              >
                 {icon}
               </a>
             ))}

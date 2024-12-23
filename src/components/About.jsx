@@ -13,8 +13,8 @@ const About = () => {
   return (
     <section id="about" className="section">
       <div className="container">
-        <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12">
-          <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
+        <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up">
+          <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[78ch]">
             Welcome! I'm Simmy Sidhu, an engineering leader with a
             multidisciplinary background and a passion for innovation. My
             journey has taken me from earning a Master of Engineering in
