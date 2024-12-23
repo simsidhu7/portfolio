@@ -11,6 +11,7 @@ const works = [
     imgSrc: "/images/project-2.png",
     title: "Just for Laughs - A Meta AI App",
     tags: ["24 Hour Meta Hackathon"],
+    projectLink:"https://github.com/betty-alemayehu/ip-meta-client"
   },
 ];
 
