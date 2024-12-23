@@ -34,7 +34,7 @@ const ProjectCard = ({ imgSrc, title, tags, projectLink, classes }) => {
           </span>
         </div>
       </div>
-      <a href="projectLink" className="absolute inset-0" target="_blank"></a>
+      <a href={projectLink} className="absolute inset-0" target="_blank"></a>
     </div>
   );
 };
