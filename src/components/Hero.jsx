@@ -6,7 +6,7 @@ const Hero = () => {
           <div className="flex items-center gap-3">
             <figure className="img-box w-9 h-9 rounded-lg">
               <img
-                src="/public/images/hero-img.jpeg"
+                src="/images/hero-img.jpeg"
                 width={40}
                 height={40}
                 alt="Laptop cartoon"
@@ -30,7 +30,7 @@ const Hero = () => {
         <div className="hidden lg:block">
           <figure className="w-full max-w-[480px] ml-auto">
             <img
-              src="/public/images/sim.png"
+              src="/images/sim.png"
               width={656}
               height={800}
               alt="Portrait of Simmy"

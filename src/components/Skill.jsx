@@ -2,47 +2,47 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
   {
-    imgSrc: "/public/images/html.svg",
+    imgSrc: "/images/html.svg",
     label: "HTML",
     desc: "Markup Language",
   },
   {
-    imgSrc: "/public/images/sass-logo.png",
+    imgSrc: "/images/sass-logo.png",
     label: "Sass",
     desc: "User Interface",
   },
   {
-    imgSrc: "/public/images/css3.svg",
+    imgSrc: "/images/css3.svg",
     label: "CSS",
     desc: "User Interface",
   },
   {
-    imgSrc: "/public/images/javascript.svg",
+    imgSrc: "/images/javascript.svg",
     label: "JavaScript",
     desc: "Interaction",
   },
   {
-    imgSrc: "/public/images/nodejs.svg",
+    imgSrc: "/images/nodejs.svg",
     label: "NodeJS",
     desc: "Web Server",
   },
   {
-    imgSrc: "/public/images/expressjs.svg",
+    imgSrc: "/images/expressjs.svg",
     label: "ExpressJS",
     desc: "Node Framework",
   },
   {
-    imgSrc: "/public/images/mysql.svg",
+    imgSrc: "/images/mysql.svg",
     label: "MySQL",
     desc: "Database",
   },
   {
-    imgSrc: "/public/images/react.svg",
+    imgSrc: "/images/react.svg",
     label: "React",
     desc: "Framework",
   },
   {
-    imgSrc: "/public/images/tailwindcss.svg",
+    imgSrc: "/images/tailwindcss.svg",
     label: "TailwindCSS",
     desc: "User Interface",
   },
