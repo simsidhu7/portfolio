@@ -2,13 +2,13 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
-    imgSrc: "/images/project-1.png",
+    imgSrc: "/public/images/project-1.png",
     title: "SparkWell",
     tags: ["Spotify API Integration"],
     projectLink: "https://sparkwell.netlify.app/",
   },
   {
-    imgSrc: "/images/project-2.png",
+    imgSrc: "/public/images/project-2.png",
     title: "Just for Laughs - A Meta AI App",
     tags: ["24 Hour Meta Hackathon"],
     projectLink: "https://github.com/simsidhu7/ip-meta-client",
