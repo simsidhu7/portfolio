@@ -41,7 +41,8 @@ const About = () => {
             impact. If you're looking for a dedicated professional who bridges
             engineering and technology with a focus on driving meaningful
             change, let's connect! Together, we can create solutions that
-            transform industries and improve lives.
+            transform industries and improve lives.<br /><br />
+            Also, if you need help designing your website, feel free to reach out - I’d be happy to assist!
           </p>
           <div className="flex flex-wrap items-center gap-4 md:gap-7">
             {aboutItems.map(({ label, number }, key) => (
