@@ -1,5 +1,4 @@
 import PropTypes from "prop-types";
-import Skill from "./Skill";
 
 const SkillCard = ({ imgSrc, label, desc, classes }) => {
   return (

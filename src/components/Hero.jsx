@@ -30,7 +30,7 @@ const Hero = () => {
         <div className="hidden lg:block">
           <figure className="w-full max-w-[480px] ml-auto">
             <img
-              src="/images/sim.png"
+              src="/images/Sim.png"
               width={656}
               height={800}
               alt="Portrait of Simmy"

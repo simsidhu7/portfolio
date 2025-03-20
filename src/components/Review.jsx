@@ -17,17 +17,18 @@ const reviews = [
     name: "Brad Treat",
     company: "Cornell University (Professor/Founder of Start-Ups)",
   },
-  {
-    content:
-      "I’ve had the pleasure of knowing Simrit since 2016, when we both worked at Johnson & Johnson in the Engineering department. Her reliability and the focus on the task at hand would be a valuable asset for any company employing her. As a team member or a leader Simrit earns my highest recommendation!",
-    name: "Adrian Stanila",
-    company: "Johnson & Johnson (Project Manager)",
-  },
+
   {
     content:
       "Having worked with Simmy during her time at Baxter, I can say she was a real asset to our team. During her time with us she worked on applying multivariate data analysis (machine learning and data analytics) in our manufacturing processes, which resulted in significant savings. Simmy was also tasked with providing global training on our hardware and software implementation platform. She was always willing to take on new challenges within our group, and was a great partner to the teams she interfaced with. ",
     name: "Lee Hutson",
     company: "Baxter Healthcare (Director of Engineering)",
+  },
+  {
+    content:
+      "I’ve had the pleasure of knowing Simrit since 2016, when we both worked at Johnson & Johnson in the Engineering department. Her reliability and the focus on the task at hand would be a valuable asset for any company employing her. As a team member or a leader Simrit earns my highest recommendation!",
+    name: "Adrian Stanila",
+    company: "Johnson & Johnson (Project Manager)",
   },
   {
     content:

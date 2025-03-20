@@ -2,6 +2,12 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
+    imgSrc: "/images/project-3.png",
+    title: "ClassClarity",
+    tags: ["OTPP & Koru 1 Week Hackathon"],
+    projectLink: "https://github.com/simsidhu7/KoruHackathon",
+  },
+  {
     imgSrc: "/images/project-1.png",
     title: "SparkWell",
     tags: ["Spotify API Integration"],
