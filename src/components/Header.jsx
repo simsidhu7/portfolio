@@ -15,8 +15,10 @@ const Header = () => {
               width={40}
               height={40}
               alt="Logo Image"
-            />
-          </a>
+        
+            />      </a>
+              
+    
         </h1>
         <div className="relative md:justify-self-center">
           <button
