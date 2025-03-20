@@ -5,7 +5,7 @@ const works = [
     imgSrc: "/images/project-3.png",
     title: "ClassClarity",
     tags: ["OTPP & Koru 1 Week Hackathon"],
-    projectLink: "https://github.com/simsidhu7/KoruHackathon",
+    projectLink: "https://classclarity.netlify.app/",
   },
   {
     imgSrc: "/images/project-1.png",
