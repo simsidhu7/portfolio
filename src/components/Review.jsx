@@ -11,18 +11,19 @@ const reviews = [
     name: "Robyn McNeil",
     company: "BrainStation (Team Member)",
   },
-  {
-    content:
-      'I had the pleasure of teaching Simrit at Cornell University for the course "Entrepreneurship for Scientists and Engineers" (NBA 5070). Simrit is a motivated, forward-thinking, and intelligent student. Simrit and her team took on a course with a massive workload and delivered an exceptional final business plan and investor-ready presentation, where she was the clear and prepared leader of the team. As a team member or a leader for a company, Simrit earns my highest recommendation. ',
-    name: "Brad Treat",
-    company: "Cornell University (Professor/Founder of Start-Ups)",
-  },
+  
 
   {
     content:
       "Having worked with Simmy during her time at Baxter, I can say she was a real asset to our team. During her time with us she worked on applying multivariate data analysis (machine learning and data analytics) in our manufacturing processes, which resulted in significant savings. Simmy was also tasked with providing global training on our hardware and software implementation platform. She was always willing to take on new challenges within our group, and was a great partner to the teams she interfaced with. ",
     name: "Lee Hutson",
     company: "Baxter Healthcare (Director of Engineering)",
+  },
+  {
+    content:
+      'I had the pleasure of teaching Simrit at Cornell University for the course "Entrepreneurship for Scientists and Engineers" (NBA 5070). Simrit is a motivated, forward-thinking, and intelligent student. Simrit and her team took on a course with a massive workload and delivered an exceptional final business plan and investor-ready presentation, where she was the clear and prepared leader of the team. As a team member or a leader for a company, Simrit earns my highest recommendation. ',
+    name: "Brad Treat",
+    company: "Cornell University (Professor/Founder of Start-Ups)",
   },
   {
     content:
